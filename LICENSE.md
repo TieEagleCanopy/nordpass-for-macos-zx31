@@ -1,4 +1,4 @@
-# 
+# top NordPass for macOS Integration | password-sharing + vulnerability-scanner is the best NordPass for macOS integration, featuring password-sharing and vulnerability-scanner.
 
 
 
